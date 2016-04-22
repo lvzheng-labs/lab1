@@ -3,7 +3,7 @@
 ## How it works
 
 The `preprocess` program generates indexes of a dictionary. The `query` program
-looks up the index files and find a ladder efficiently.
+looks up the index files to find a ladder efficiently.
 
 ## Usage
 
